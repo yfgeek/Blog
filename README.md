@@ -114,7 +114,7 @@
 | 2008-08-1 | [[教程]做自己的CSS.[第3篇] ](blog/2008-08-19 [教程]做自己的CSS.[第3篇] .md) |
 | 2008-08-1 | [[教程]做自己的CSS.[第2篇] ](blog/2008-08-14 [教程]做自己的CSS.[第2篇] .md) |
 | 2008-08-1 | [[教程]做自己的CSS.[第1篇] ](blog/2008-08-13 [教程]做自己的CSS.[第1篇] .md) |
-| 2008-08-1 | [[推荐]游戏Grand Theft Auto |3D|自由高度|任务型 ](blog/2008-08-10 [推荐]游戏Grand Theft Auto |3D|自由高度|任务型 .md) |
+| 2008-08-1 | [[推荐]游戏Grand Theft Auto 3D 自由 高度 任务型 ](blog/2008-08-10 [推荐]游戏Grand Theft Auto \|3D\|自由高度\|任务型 .md) |
 | 2008-08-0 | [北京奥运会，我们等待你那一刻！Beijing Olympics Games! ](blog/2008-08-08 北京奥运会，我们等待你那一刻！Beijing Olympics Games! .md) |
 | 2008-08-0 | [全新改版空间顶部（header） ](blog/2008-08-06 全新改版空间顶部（header） .md) |
 | 2008-08-0 | [OpenSUSE,linux中的最华丽的系统,YF亲手安装 ](blog/2008-08-03 OpenSUSE,linux中的最华丽的系统,YF亲手安装 .md) |
