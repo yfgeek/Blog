@@ -12,7 +12,8 @@ for root, dirs, files in os.walk(dir):
         if "images" in root:
             a =1
         else:
-            list =  "| " + name[0:9] + " | [" +name[11:-3] + "](blog/" + name + ") |"
+            name = name.replace("|", "\|")
+            list =  "| " + name[0:10] + " | [" +name[11:-3] + "](blog/" + name + ") |"
             filelist.append(list)
             j = j +1
 j = j -1
