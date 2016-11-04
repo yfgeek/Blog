@@ -1,6 +1,6 @@
 # 百度空间文章
 
-百度空间是我最早的Blog(2008-2011)，后转战独立空间VPS，先后用过Worldpress,Ghost以及现在的Hexo。
+百度空间是我最早的Blog(2007-2011)，后转战独立空间VPS，先后用过Worldpress,Ghost以及现在的Hexo。
 
 百度空间有着很多的回忆，和百度斗智斗勇玩import js的eDIKID.CSS是美好的回忆❤️。
 
