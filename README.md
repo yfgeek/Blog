@@ -8,7 +8,7 @@
 
 现在我通过修改@cheezer的BaiduBlogTransferee项目的代码，添加了生成Markdown功能，把原来百度空间的内容全部导出来了。
 
-[点击进入项目](https://github.com/cheezer/BaiduBlogTransferer)
+[点击进入项目](https://github.com/yfgeek/BaiduBlogTransferer)
 
 决定在Github，封尘。
 
