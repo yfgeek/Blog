@@ -1,6 +1,6 @@
 import string, os, sys
 
-dir = 'blog'
+dir = 'wordpress'
 
 files = os.listdir(dir)
 
@@ -13,7 +13,7 @@ for root, dirs, files in os.walk(dir):
             a =1
         else:
             name = name.replace("|", "\|")
-            list =  "| " + name[0:10] + " | [" +name[11:-3] + "](blog/" + name + ") |"
+            list =  "| " + name[0:10] + " | [" +name[11:-3] + "]("+dir+"/" + name + ") |"
             filelist.append(list)
             j = j +1
 j = j -1
